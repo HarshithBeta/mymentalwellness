@@ -1,0 +1,8 @@
+.about_section .container{
+    display: grid;
+    place-content: center;
+    height: inherit;
+}
+.btn{
+    background-color: #0d6efd;
+}
